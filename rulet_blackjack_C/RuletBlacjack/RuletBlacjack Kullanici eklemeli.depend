@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1595247743 source:c:\users\tosh›ba\desktop\programlama\ruletblacjack kullanici eklemeli\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+

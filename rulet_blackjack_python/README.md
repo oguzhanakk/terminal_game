@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rulet_Blackjack Game Project
 In this repository, ı converted the very popular Roulette and Blackjack games played on the internet betting sites into code. It also includes things like creating an account and logging into an account. Typed account names, passwords and balance amounts are also kept in the database.
 The game does not have an interface, it is played on the editor console.
@@ -8,13 +9,23 @@ The game does not have an interface, it is played on the editor console.
 This is the database image where we store the information.
 
 ![image](https://user-images.githubusercontent.com/92020160/190082581-67bba030-bab4-4aac-90c6-f315193c9c4b.png)
+=======
+# Rulet_Blackjack_for_C
+The program I wrote in C version of the code I wrote as roulette blackjack in python.
+>>>>>>> rulet_blackjack_C/main
 
 # Requirements
 To run this project, you will need to have the following software requirements:
 
+<<<<<<< HEAD
 • time
 • random
 • sqlite3
+=======
+• stdio.h
+• stdlib.h
+• time.h
+>>>>>>> rulet_blackjack_C/main
 
 # Setup
 To run this project on your own computer, follow these steps:
